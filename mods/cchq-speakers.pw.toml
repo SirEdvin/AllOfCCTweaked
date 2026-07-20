@@ -1,0 +1,13 @@
+name = "CC:HQ Speakers"
+filename = "hqspeaker-1.0.1-Forge1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ygA78R8l/versions/u5PEI5Ax/hqspeaker-1.0.1-Forge1.20.1.jar"
+hash-format = "sha512"
+hash = "8d3ff609b49874a04588c0a64953958e4e876f971abdcf4554ca29972b530d7b6c97c5b9d3f3cbda44ed01e1be8e681038b6565416e57722c490bb0f57bdd9aa"
+
+[update]
+[update.modrinth]
+mod-id = "ygA78R8l"
+version = "u5PEI5Ax"

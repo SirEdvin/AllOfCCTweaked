@@ -1,0 +1,13 @@
+name = "Classic Peripherals"
+filename = "classicperipherals-0.3.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F0AMrDjl/versions/1F83I46I/classicperipherals-0.3.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "18d8d5b42ac900c58e12716373ca5dc90900d2a2174fd7fa0708484a1944df4c47960e448e29f5d62c0b4ccc1768ba41d1d6ea7f128a1f3f6ee5f916f14444c0"
+
+[update]
+[update.modrinth]
+mod-id = "F0AMrDjl"
+version = "1F83I46I"

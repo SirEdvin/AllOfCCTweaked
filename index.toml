@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/cc-androids.pw.toml"
+hash = "9cad81dcc829d75e7b874c5f261d388cc84a8f57c2de74fd1443f59256873d51"
+metafile = true
+
+[[files]]
+file = "mods/cc-link.pw.toml"
+hash = "b781bdea437e7f41dfaf52be1a8eba3f80be78205d4b1f921ac8e473e3012115"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "ca55f3ceb2ccbf454645c4eb691109220ad14205ca2592caf46223d81f73ced3"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "29ff87cf944ddc64351bffbf504c94a57055daf91d4df5b0cd1b8b28d28280bc"
+metafile = true
+
+[[files]]
+file = "mods/cchq-speakers.pw.toml"
+hash = "d55afad7e5c141b85bcf190baa8168ce87d187df6f83f205100fc75d5100b2aa"
+metafile = true
+
+[[files]]
+file = "mods/ccx.pw.toml"
+hash = "39620a36c30152a2fe5662a45765dd7457d1534ec53a912e42a02b957e59e5cb"
+metafile = true
+
+[[files]]
+file = "mods/classicperipherals.pw.toml"
+hash = "e647348697ab79203a0b890bd8f31d67b022d5f2c74b9d8ac5e87783959c7c0c"
+metafile = true
+
+[[files]]
+file = "mods/cloud-solutions.pw.toml"
+hash = "68cfce19dcb651727e5b98c21861534a63290bed81fd14271bb40eb1398c9f19"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/digital-items-3.pw.toml"
+hash = "7e90696877a7c861609420d15929246d52b725c41f98d54cf68214ff70e66427"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "724ef5d1976e623bccf155159410708893b16fb1f35911ab7911ef6f047552ad"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
+file = "mods/lakes-cc-additions.pw.toml"
+hash = "8806a9dd73e4d6fd4cf181ee0d9c9c3dad8c10011ce76f9ae963e9af1463edde"
+metafile = true
+
+[[files]]
+file = "mods/more-peripherals.pw.toml"
+hash = "22fdac711ad40f7498c547d8a6df6cf7865909f050d16c7f59d6284a3be67509"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "771e140bad0a4642ea8861d8afe5e6e841128158ffd0738753b0df58e8063c24"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "7d5a47a1f54122cd91d2fa6a50cf59887b0031486fecd9916d88440b0339cbf1"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "6cbb7d1b65315650cb8050350510dca0bb57f397dad395f1b8667bf64b484798"
+metafile = true

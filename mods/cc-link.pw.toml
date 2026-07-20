@@ -1,0 +1,13 @@
+name = "CC: Link"
+filename = "cclink-6.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oifOaq1t/versions/Rut4ODOG/cclink-6.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "18bc6cfba1f448e0a700291e6930aa554a0deb12690b6ff654026ce1a88edfa17c3856f6a8c0e7d8f175c2cf10c0f83e0a2a4322a733368f880c906e0dfb9148"
+
+[update]
+[update.modrinth]
+mod-id = "oifOaq1t"
+version = "Rut4ODOG"

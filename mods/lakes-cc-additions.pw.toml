@@ -1,0 +1,13 @@
+name = "Lake's CC Additions"
+filename = "lakeccaddition-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KurlZDEX/versions/BCUic4dl/lakeccaddition-1.7.0.jar"
+hash-format = "sha512"
+hash = "79205364f2b61a4b6b3983d792e5051921cc84e21e4357b151ef6218dbaac8e7c6e297af94e9fcb700b6c6bb12eeee8911836e6ffb9a754a8fd982d4d7c29f16"
+
+[update]
+[update.modrinth]
+mod-id = "KurlZDEX"
+version = "BCUic4dl"

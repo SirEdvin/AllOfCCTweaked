@@ -1,0 +1,13 @@
+name = "Digital Items 3"
+filename = "digitalitems-forge-1.20.1-0.5.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YDOa7yWU/versions/oFeWtvZd/digitalitems-forge-1.20.1-0.5.8.jar"
+hash-format = "sha512"
+hash = "ef0e94d9f4b7748cde2e6f3fd061d2fe8b49d45484e58e33b3ba4f8eb59059df3781dc002ef5e0135060c9ba0f2614c47fdf03dba78ef3a7571a89f0304414e7"
+
+[update]
+[update.modrinth]
+mod-id = "YDOa7yWU"
+version = "oFeWtvZd"
