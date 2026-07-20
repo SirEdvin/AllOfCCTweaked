@@ -30,7 +30,7 @@ hash = "579652050040647f2ed249948f9e72879004e128a7b8ade0a73137ffdee3fbcf"
 
 [[files]]
 file = "config/classicperipherals.toml"
-hash = "1ee98be1ffe155ae63d5acaf8eff0cea6a615e0f64f75f819f19ccd978aa2a25"
+hash = "b566389218101022e965f61d6c7235d2c316b9c2293a9ce3d60e8ebcbef98c13"
 
 [[files]]
 file = "config/cloudsolutions.toml"
@@ -115,6 +115,10 @@ hash = "3969f4b811d298575c8cc46782b48cc5afe25e27dfd389b82d5fdcc71a755408"
 [[files]]
 file = "config/turtlematic.toml"
 hash = "a4fa866b70dbc8915c1d66bb1cc7969e46b984bc49bdb4c29ccdfe3149095f05"
+
+[[files]]
+file = "defaultconfigs/classicperipherals.toml"
+hash = "b566389218101022e965f61d6c7235d2c316b9c2293a9ce3d60e8ebcbef98c13"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
