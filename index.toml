@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "AGENTS.md"
+hash = "4b083759f04b7b99de3b337aac2d3943662605018d4e2e4150261d2d8279d055"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
 metafile = true
@@ -13,6 +17,16 @@ metafile = true
 [[files]]
 file = "mods/cc-androids.pw.toml"
 hash = "9cad81dcc829d75e7b874c5f261d388cc84a8f57c2de74fd1443f59256873d51"
+metafile = true
+
+[[files]]
+file = "mods/cc-holo.pw.toml"
+hash = "21a9cb700ba1bdbb14b03f48e217e75f6faa66e3f4880e7ded7d0a902faff2f6"
+metafile = true
+
+[[files]]
+file = "mods/cc-lectern-hub.pw.toml"
+hash = "322f994401147283d966fb810d0942ee24c5818e3f86d9ef25540ba02620e5bb"
 metafile = true
 
 [[files]]
@@ -36,6 +50,11 @@ hash = "d55afad7e5c141b85bcf190baa8168ce87d187df6f83f205100fc75d5100b2aa"
 metafile = true
 
 [[files]]
+file = "mods/ccwake.pw.toml"
+hash = "c24de17df601327108fffa3f76ea80f9cc71e11af9acf67a41c749b08c26834a"
+metafile = true
+
+[[files]]
 file = "mods/ccx.pw.toml"
 hash = "39620a36c30152a2fe5662a45765dd7457d1534ec53a912e42a02b957e59e5cb"
 metafile = true
@@ -51,6 +70,11 @@ hash = "68cfce19dcb651727e5b98c21861534a63290bed81fd14271bb40eb1398c9f19"
 metafile = true
 
 [[files]]
+file = "mods/computer-cartographer.pw.toml"
+hash = "81b4a182487cdeb22bfd608a69bc7de5af7784307ee2d41f3439f9963c565921"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
@@ -61,6 +85,11 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/dairy-peripherals.pw.toml"
+hash = "d98d5277c83bffbbb8dfff526e1f7f213af0d0c0592c55995d8fb49569ec7aca"
+metafile = true
+
+[[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "7e90696877a7c861609420d15929246d52b725c41f98d54cf68214ff70e66427"
 metafile = true
@@ -68,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "724ef5d1976e623bccf155159410708893b16fb1f35911ab7911ef6f047552ad"
+metafile = true
+
+[[files]]
+file = "mods/geo-tracer.pw.toml"
+hash = "dbdd4b6d71b34eeb353495d9ecd1475006d3d55c57099193e427ac5c8395b9c5"
 metafile = true
 
 [[files]]
