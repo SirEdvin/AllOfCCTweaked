@@ -1,0 +1,13 @@
+name = "CC: Lectern Hub"
+filename = "lectern_hub-1.0.0-1.115.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/thQOlD0Y/versions/MYETgmkj/lectern_hub-1.0.0-1.115.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "bfaee3d0b627b8e9297a2d1a789c4c14773bb248cc4c7a9a4edb2f1369e86286bbbcf0cf2f3b97ba7abddf8b56d6a278575c49c7e45ea25178c53eff1ee20ef8"
+
+[update]
+[update.modrinth]
+mod-id = "thQOlD0Y"
+version = "MYETgmkj"

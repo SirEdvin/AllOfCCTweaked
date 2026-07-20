@@ -1,0 +1,13 @@
+name = "Computer Cartographer"
+filename = "computer_cartographer-1.20.1-1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eu7WswDc/versions/YbdPiGff/computer_cartographer-1.20.1-1.0-forge.jar"
+hash-format = "sha512"
+hash = "c8e211d2057a139160ec909840fdb6feeff0ee89684f6a26e2853fb79de158db18908d1eddbdb2c9934695c9de33c3c980459ddc170cc1b43fef010f4cb4f3bb"
+
+[update]
+[update.modrinth]
+mod-id = "eu7WswDc"
+version = "YbdPiGff"

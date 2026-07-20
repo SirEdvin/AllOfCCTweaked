@@ -1,0 +1,13 @@
+name = "CC-Holo"
+filename = "CC-Holo-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DuhavUpy/versions/LKpPi3WF/CC-Holo-1.9.0.jar"
+hash-format = "sha512"
+hash = "ce90c5db8de281d2a013f74b01826b06ae0f08d6b1dbc863192efcd33867d287ea59e042cd4f69fa0f2b0bd6d96d69a7cd1c8b53f0f9120fcc346743cc370874"
+
+[update]
+[update.modrinth]
+mod-id = "DuhavUpy"
+version = "LKpPi3WF"
