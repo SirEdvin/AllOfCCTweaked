@@ -1,0 +1,13 @@
+name = "Metaphysics"
+filename = "cryptography-0.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wPrVXraU/versions/PbYTOoVq/cryptography-0.0.6.jar"
+hash-format = "sha512"
+hash = "d372802280fc6f91f6bbb389db917606191f891d471c8b90dc659e79b4881b7d609c148bb317c53e21f0f39b55baef50341522680596d92e3daf6566db6f8978"
+
+[update]
+[update.modrinth]
+mod-id = "wPrVXraU"
+version = "PbYTOoVq"

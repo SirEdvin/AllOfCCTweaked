@@ -1,0 +1,13 @@
+name = "Claudecraft"
+filename = "claudecraft-1.2.1-mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oQ8wCTba/versions/RB88E9ck/claudecraft-1.2.1-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "1192897285ba0978bffcd8f573bce5ca232095db0bc04f0ee09c5134c0f147aa2b058b3dce66f1291e91ad2e74d0026bf0e9e9e73f4f797b67140710c906cd3b"
+
+[update]
+[update.modrinth]
+mod-id = "oQ8wCTba"
+version = "RB88E9ck"

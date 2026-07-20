@@ -1,0 +1,13 @@
+name = "Minecart Peripherals"
+filename = "minecart_peripherals-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb20cdc8d8878482d37e8703abcf99f427b982e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6426644
+project-id = 1242431

@@ -1,0 +1,13 @@
+name = "CC:Bridge (Create Computers)"
+filename = "ccbridge-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RBRy3Rps/versions/ZyicsjMq/ccbridge-1.2.4.jar"
+hash-format = "sha512"
+hash = "d0d120b0b4fd35032d9a3b74f244b0501e956ca78ed0830418e2794e554f5c161a21880b43b6d95a5ea6445259493c22146e308c76f99220fe9b161d542ad4bf"
+
+[update]
+[update.modrinth]
+mod-id = "RBRy3Rps"
+version = "ZyicsjMq"

@@ -1,0 +1,13 @@
+name = "Extended Peripherals"
+filename = "ExtendedPeripherals-1.20.1-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/liUDQ2hb/versions/XCnxgJo2/ExtendedPeripherals-1.20.1-0.1.0.jar"
+hash-format = "sha512"
+hash = "1a9cb84d57c78595e6aff3f3a5fbe30669dd8269c60c2a9255b00625a327e296fb3cd391a477a75968e99279340948df075ab545164e8fadd5e1b7a4af81f805"
+
+[update]
+[update.modrinth]
+mod-id = "liUDQ2hb"
+version = "XCnxgJo2"

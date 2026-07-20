@@ -6,8 +6,23 @@ hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.pw.toml"
+hash = "b4c80cb690debf7d28d7a953ffd77b2dcb2f8c020e5e456576a2598e23666725"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "2195b22648787aac875b1ea60c51cca57c1c0a4db4241ec52cd3ea2abfeaebf4"
 metafile = true
 
 [[files]]
@@ -16,8 +31,68 @@ hash = "9cad81dcc829d75e7b874c5f261d388cc84a8f57c2de74fd1443f59256873d51"
 metafile = true
 
 [[files]]
+file = "mods/cc-ar.pw.toml"
+hash = "85bdb6bc53fcfac29c882ada38900a6dd0aee5ac217f1e62fed3113c6b2d26a4"
+metafile = true
+
+[[files]]
+file = "mods/cc-ballistix-updated.pw.toml"
+hash = "4aa5dd187a840c1788d2a8c0f609e7ed9ef388d92c634c7713f14dc3cf134ad2"
+metafile = true
+
+[[files]]
+file = "mods/cc-cbc.pw.toml"
+hash = "f054767db55fb712c4e21f2794ff257c0b1c5c72e948e54a508d1d97efc656aa"
+metafile = true
+
+[[files]]
+file = "mods/cc-cosmetics.pw.toml"
+hash = "0cc4f67c0961544fe61f1fc9bbdbcf628104207d138342d62c2060db9b53e127"
+metafile = true
+
+[[files]]
+file = "mods/cc-eureka.pw.toml"
+hash = "0aed86680f08505985c47940bd21a34ad8a8361ac15959cd0e39cc51f83066d5"
+metafile = true
+
+[[files]]
+file = "mods/cc-holo.pw.toml"
+hash = "21a9cb700ba1bdbb14b03f48e217e75f6faa66e3f4880e7ded7d0a902faff2f6"
+metafile = true
+
+[[files]]
+file = "mods/cc-lectern-hub.pw.toml"
+hash = "322f994401147283d966fb810d0942ee24c5818e3f86d9ef25540ba02620e5bb"
+metafile = true
+
+[[files]]
 file = "mods/cc-link.pw.toml"
 hash = "b781bdea437e7f41dfaf52be1a8eba3f80be78205d4b1f921ac8e473e3012115"
+metafile = true
+
+[[files]]
+file = "mods/cc-powered.pw.toml"
+hash = "d4687396974db78c91062717791af8968c14f66ca73ba7cbb832ff7277b4d1cf"
+metafile = true
+
+[[files]]
+file = "mods/cc-rail.pw.toml"
+hash = "d355a5900b8d36f8cd4297683ed8edc6de2d1a83be5d393d9ee2acde5f26c9db"
+metafile = true
+
+[[files]]
+file = "mods/cc-redstone-link-bridge.pw.toml"
+hash = "7cf9aec1388a8b1a19507af22275b929d3d2791b6dbccb41d1d4e56d474e5189"
+metafile = true
+
+[[files]]
+file = "mods/cc-shenanigans.pw.toml"
+hash = "d30df1a0fc5dfaeb98ff01fa460dd8f034cba9d4f9c1f82da7b02610f7eb7c06"
+metafile = true
+
+[[files]]
+file = "mods/cc-shops.pw.toml"
+hash = "322dd4d918c98dc2d63a14edbd997afedbc8affb23d14dfc766eb156aa72c8a1"
 metafile = true
 
 [[files]]
@@ -26,13 +101,53 @@ hash = "ca55f3ceb2ccbf454645c4eb691109220ad14205ca2592caf46223d81f73ced3"
 metafile = true
 
 [[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "fbba906e4f9f4925e4bc8a6162c631f04a65ce450614749b1b6b12df36053580"
+metafile = true
+
+[[files]]
+file = "mods/ccbridge.pw.toml"
+hash = "3382382eb604c0d7360e47c6a56b608f3999df228f6db965597077b084fde157"
+metafile = true
+
+[[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "29ff87cf944ddc64351bffbf504c94a57055daf91d4df5b0cd1b8b28d28280bc"
 metafile = true
 
 [[files]]
+file = "mods/ccccc_.pw.toml"
+hash = "25091a7cf3b6a46f9bc9df1e999d0db8019aff143eaa9da2bcc26bb04ddd74ce"
+metafile = true
+
+[[files]]
+file = "mods/ccdbridge.pw.toml"
+hash = "977d8dcda9fe69436e0d84dc1b8b1b9d66fe862e2f79f31611f39f018da46cfa"
+metafile = true
+
+[[files]]
 file = "mods/cchq-speakers.pw.toml"
 hash = "d55afad7e5c141b85bcf190baa8168ce87d187df6f83f205100fc75d5100b2aa"
+metafile = true
+
+[[files]]
+file = "mods/ccliftlink.pw.toml"
+hash = "d73feceeb7a85e2b98f6689c5320191f1f4dbd267ba53829f047666e92a770da"
+metafile = true
+
+[[files]]
+file = "mods/ccsecureboot.pw.toml"
+hash = "aa669a0636fd55d44a55cefc9f327f2179e7cf1f586e289c40004aa3b65f00ec"
+metafile = true
+
+[[files]]
+file = "mods/ccvsr.pw.toml"
+hash = "aaa0584536ed2466ef62a12f47a71558963c2a1d30dd2f753a20b52dbe489a42"
+metafile = true
+
+[[files]]
+file = "mods/ccwake.pw.toml"
+hash = "c24de17df601327108fffa3f76ea80f9cc71e11af9acf67a41c749b08c26834a"
 metafile = true
 
 [[files]]
@@ -46,8 +161,23 @@ hash = "e647348697ab79203a0b890bd8f31d67b022d5f2c74b9d8ac5e87783959c7c0c"
 metafile = true
 
 [[files]]
+file = "mods/claudecraft.pw.toml"
+hash = "89be69117f34d572f2939efe97483c452d01a31573e6e7c90f3c7a39fc88c132"
+metafile = true
+
+[[files]]
 file = "mods/cloud-solutions.pw.toml"
 hash = "68cfce19dcb651727e5b98c21861534a63290bed81fd14271bb40eb1398c9f19"
+metafile = true
+
+[[files]]
+file = "mods/computer-cartographer.pw.toml"
+hash = "81b4a182487cdeb22bfd608a69bc7de5af7784307ee2d41f3439f9963c565921"
+metafile = true
+
+[[files]]
+file = "mods/create-cc-total-logistics.pw.toml"
+hash = "4770a7900394a73af29c8745e039fcc3833d27332944ad97383c558bf2f6321d"
 metafile = true
 
 [[files]]
@@ -61,13 +191,68 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/dairy-peripherals.pw.toml"
+hash = "d98d5277c83bffbbb8dfff526e1f7f213af0d0c0592c55995d8fb49569ec7aca"
+metafile = true
+
+[[files]]
+file = "mods/destroy.pw.toml"
+hash = "3ec1b526c89e0cc060827954e50c14dfd8411380f73f733ab160c049fadc3470"
+metafile = true
+
+[[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "7e90696877a7c861609420d15929246d52b725c41f98d54cf68214ff70e66427"
 metafile = true
 
 [[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "dec6adcd7a2404dc12b0df096820154c5c81fca5dcea69a3ec61ce2776e176b5"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "89cba1aaddc602409736efc4d93efe5b6d9640f2faf1d5f124928d498c5874f9"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "724ef5d1976e623bccf155159410708893b16fb1f35911ab7911ef6f047552ad"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "5d93867ed1644c938145786a38b328786bb323cbcaff06bbe9f759c5157c91bf"
+metafile = true
+
+[[files]]
+file = "mods/extendedperipherals.pw.toml"
+hash = "8956874c26351462f9fb938db0733ef4ec706ced53c177de7310bc6769845ecd"
+metafile = true
+
+[[files]]
+file = "mods/flux-network-x-cc-tweaked.pw.toml"
+hash = "ab657bdb263d11104379c2ee95e47b748f7d12ca21c6798a3a4b59050c9d0efc"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7b2cc450f553b82439ae9422b8c2b4406dae1af3c48f7ce791a3576acff1d122"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
+
+[[files]]
+file = "mods/geo-tracer.pw.toml"
+hash = "dbdd4b6d71b34eeb353495d9ecd1475006d3d55c57099193e427ac5c8395b9c5"
 metafile = true
 
 [[files]]
@@ -81,8 +266,53 @@ hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
+file = "mods/kubejs+cc-tweaked.pw.toml"
+hash = "715916f67a72805e4c86709e4ed47bd4cf537d64b23117b3b0e31de0e7bfc523"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "9ec37ad87c0c174bdafe7d52fc98f96b83aaef0ad42ae59e196655d3d784f31f"
+metafile = true
+
+[[files]]
 file = "mods/lakes-cc-additions.pw.toml"
 hash = "8806a9dd73e4d6fd4cf181ee0d9c9c3dad8c10011ce76f9ae963e9af1463edde"
+metafile = true
+
+[[files]]
+file = "mods/lc-cc-compat.pw.toml"
+hash = "82c43a9826556a01b407a958fde383665c111b9bb690c2b1e514e67b17237a65"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "b866dfa492c2f8a94e6864196720e1af291770b8b7600516dc4887de39336a31"
+metafile = true
+
+[[files]]
+file = "mods/logistorage.pw.toml"
+hash = "b824a15e26d87846bbbeb29a896037de2338859cd51635326cdf696302160a89"
+metafile = true
+
+[[files]]
+file = "mods/metaphysics.pw.toml"
+hash = "3a0dce68900906f081a7a7a73993764de1452ed073f83a0d35c6b7c5c11ee88d"
+metafile = true
+
+[[files]]
+file = "mods/minecart-peripherals.pw.toml"
+hash = "25b85f950b7f2f46de8b86f282f9f2db5338827fea760480222575a949a12dd4"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-for-computercraft.pw.toml"
+hash = "b3149f1509625db8d2180ca0fe071b4a8e42265f9a655b7eb79e633ac58d2f79"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "b028b9615fc909477f7b27c5cb3a273612676d86f99845ecb4e282bc5c1bf01a"
 metafile = true
 
 [[files]]
@@ -91,8 +321,53 @@ hash = "22fdac711ad40f7498c547d8a6df6cf7865909f050d16c7f59d6284a3be67509"
 metafile = true
 
 [[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "9895bf13e14fbb0b5284f7ad800b1fb3c7d4c373306231d5c6f95a282079fcbe"
+metafile = true
+
+[[files]]
+file = "mods/net-music-peripheral.pw.toml"
+hash = "ad8acdf5b87d71649857c74fd161614e5f0a60163d71845b6a641de9d3ae7740"
+metafile = true
+
+[[files]]
+file = "mods/net-music.pw.toml"
+hash = "f629ab54302ca97757ee679bc717de8ff124219e78c0531b99ed21c301ae2e3d"
+metafile = true
+
+[[files]]
+file = "mods/quest-peripheral.pw.toml"
+hash = "f70e0318736797d667755e32bdb9d899812c390befad87a69419198e53ab2436"
+metafile = true
+
+[[files]]
+file = "mods/simpleshops.pw.toml"
+hash = "9fbff7565eeecbda48cbddcdea5fd7a12cf72f72610e4d09e3f8679efb64d3ec"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "f3e28999ec3aa4973621ebd2ba2bf7f1af0a50f950ffe545444c7ebad54c5921"
+metafile = true
+
+[[files]]
+file = "mods/telluriumforge.pw.toml"
+hash = "a761c961202be4f50372fc92e7117421673a04479ef70026461e52dbcaf833a5"
+metafile = true
+
+[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "771e140bad0a4642ea8861d8afe5e6e841128158ffd0738753b0df58e8063c24"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
+metafile = true
+
+[[files]]
+file = "mods/turtle-charging-station.pw.toml"
+hash = "108bfe3ba1622d01d727f6cd76a70ea75d65f1b55c9eca258c44f6c85012f374"
 metafile = true
 
 [[files]]
@@ -103,4 +378,24 @@ metafile = true
 [[files]]
 file = "mods/unlimitedperipheralworks.pw.toml"
 hash = "6cbb7d1b65315650cb8050350510dca0bb57f397dad395f1b8667bf64b484798"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
+metafile = true
+
+[[files]]
+file = "mods/wariumcomputers-warium-x-cctweaked.pw.toml"
+hash = "7cf14a177336a4fb52802bb6ff4d3a1211a5d9f6915f4f57fa02e7054d254d4b"
+metafile = true
+
+[[files]]
+file = "mods/waterframes-computercraft-compat.pw.toml"
+hash = "11360ea9f8f5d634cce6467e7a8bfc46c3864cbfe531a1b01c5254a3375ac0c2"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "ed1d7661a3dab31bd53da54e8cdc070dd4e17a115b80e699525b6f9521493588"
 metafile = true

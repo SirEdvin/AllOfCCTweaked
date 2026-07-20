@@ -1,0 +1,13 @@
+name = "Quest Peripheral"
+filename = "questperipheral-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e06ac92c74859e71302631c2ebb5423726693ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6548487
+project-id = 1269348

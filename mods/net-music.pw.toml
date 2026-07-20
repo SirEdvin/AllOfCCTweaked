@@ -1,0 +1,13 @@
+name = "Net Music"
+filename = "netmusic-1.5.1-forge+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gKNuqaQq/versions/PDAxPE1Z/netmusic-1.5.1-forge%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "176153c7ff4886350ebbf852820495e157e56ef56d813d0457c393b8b6e2689412df7486219510878f821a18b0c30ddb4c92bfa3b435227d9f7fd9dc9edd290f"
+
+[update]
+[update.modrinth]
+mod-id = "gKNuqaQq"
+version = "PDAxPE1Z"

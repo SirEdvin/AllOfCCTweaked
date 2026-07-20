@@ -1,0 +1,13 @@
+name = "LogiStorage"
+filename = "LogiStorage-1.20.1-Forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vWwWQtRC/versions/uMJ8O8Y1/LogiStorage-1.20.1-Forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "8dcea1d1540c75152abc8ad380f1bc9c7459b3bcd8d5a7132e93fd0bd66f2ca4c27a3f4e552e4e156fa5774978f08dee49d5389bfc2f487a4f39f0409c113fd7"
+
+[update]
+[update.modrinth]
+mod-id = "vWwWQtRC"
+version = "uMJ8O8Y1"

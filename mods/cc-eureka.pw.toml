@@ -1,0 +1,13 @@
+name = "CC: Eureka"
+filename = "cc_eureka-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yPjHNdqT/versions/AhCBgfVO/cc_eureka-1.1.1.jar"
+hash-format = "sha512"
+hash = "abc53b44e2dd548010c438f79081070018798127b2180c8a911a37c478e55f1d7f24a880b59197b0f5585bfe7b610977c11455cf422b73d2189b7faa48612091"
+
+[update]
+[update.modrinth]
+mod-id = "yPjHNdqT"
+version = "AhCBgfVO"

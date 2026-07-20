@@ -1,0 +1,13 @@
+name = "CC: Redstone Link Bridge"
+filename = "ccredstonelinkbridge-forge-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k3y2uvYF/versions/Dzq97gN7/ccredstonelinkbridge-forge-1.0.2.jar"
+hash-format = "sha512"
+hash = "b90b5b27f37c49082af876304266a201d8156b1e5bdbb0d4269b7c56ec5b4c2c77a6c78348c775ba2e31afd47ee7ba1d68ce0c82c0b7f6bb28322c7a26d3047f"
+
+[update]
+[update.modrinth]
+mod-id = "k3y2uvYF"
+version = "Dzq97gN7"

@@ -1,0 +1,13 @@
+name = "CCCCC"
+filename = "ccccc-forge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1tdnJ0n/versions/AeKi2lV3/ccccc-forge-1.0.3.jar"
+hash-format = "sha512"
+hash = "7d40ebb8fe274bd330b1614694bf340146b458c214cc995f85f4bdfbadfb9a34630aa868a4dc1acef901e6fd43b281c53083057bcc8cfb7ce55e414698166ef4"
+
+[update]
+[update.modrinth]
+mod-id = "B1tdnJ0n"
+version = "AeKi2lV3"

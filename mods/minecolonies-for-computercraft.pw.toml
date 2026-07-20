@@ -1,0 +1,13 @@
+name = "MineColonies for ComputerCraft"
+filename = "Colony4ComputerCraft-1.20.1-2.6.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90e1f668f18bd4b417bee70fe6008280419c169f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7775438
+project-id = 445290

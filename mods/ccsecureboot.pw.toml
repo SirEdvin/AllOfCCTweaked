@@ -1,0 +1,13 @@
+name = "CCSecureBoot"
+filename = "CCSecureBoot-1.0.2-forge-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8S3qbPSr/versions/jYi9a4YJ/CCSecureBoot-1.0.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1b34205766e07296b4796df99a2d32b53e939c31bff42396933536f30bd90cc7ce1ea5a81f8ea5ee2dd777eb79a7a044de29e8f0b4d1546088a5c96400349361"
+
+[update]
+[update.modrinth]
+mod-id = "8S3qbPSr"
+version = "jYi9a4YJ"

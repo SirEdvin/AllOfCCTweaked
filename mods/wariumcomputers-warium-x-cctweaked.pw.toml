@@ -1,0 +1,13 @@
+name = "WariumComputers (Warium X CCTweaked)"
+filename = "wariumcomputers-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "774956bd3158c39de2f0b45ecc87c7778bc6977d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6694373
+project-id = 1294091

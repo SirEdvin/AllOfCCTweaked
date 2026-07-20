@@ -1,0 +1,13 @@
+name = "CC: Shenanigans"
+filename = "ccshenanigans-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9f58KyJG/versions/Bq7X5cid/ccshenanigans-1.0.jar"
+hash-format = "sha512"
+hash = "d45ada7553345e841a1a683d87cd779ce3ebfbe97b3fc6b0ce9a8502820a234f281353e3220aeab7a6099bf74b69f2fc5b44a4369acc351102e928e835151634"
+
+[update]
+[update.modrinth]
+mod-id = "9f58KyJG"
+version = "Bq7X5cid"

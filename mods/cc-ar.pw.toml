@@ -1,0 +1,13 @@
+name = "CC: AR"
+filename = "cc_ar-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4be6ec03b32eecac00514c6de2d545a2ec911127"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7833976
+project-id = 1296688

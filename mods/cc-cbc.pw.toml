@@ -1,0 +1,13 @@
+name = "CC:CBC"
+filename = "cc_cbc-1.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zA9Klldw/versions/ENgM7WRw/cc_cbc-1.1.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "460a3ea9d3ba6940aefcb50b10b5cf6c2549b7263978f788c35b99db61e00c44cbd210c5113c129f3764496dfda388d6f4917802266ea34e36ec0d4f57eca563"
+
+[update]
+[update.modrinth]
+mod-id = "zA9Klldw"
+version = "ENgM7WRw"

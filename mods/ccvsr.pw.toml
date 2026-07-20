@@ -1,0 +1,13 @@
+name = "CC:VSR"
+filename = "cc_vs_r-1.20.1-forge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CYVCC69g/versions/MbsRJXDd/cc_vs_r-1.20.1-forge-1.1.0.jar"
+hash-format = "sha512"
+hash = "a1c322f01a3fd58d773d1cdf3a2a2fa34109b7d062cb16bc92904069f7acf1c431b98a98beb38f30dd6a636d88645cab69882ecb052ff2ee23909108bb5058a8"
+
+[update]
+[update.modrinth]
+mod-id = "CYVCC69g"
+version = "MbsRJXDd"

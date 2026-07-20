@@ -1,0 +1,13 @@
+name = "CC: Powered"
+filename = "cc_powered-1.20.1-1.0.0-alpha.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zlSMNSzH/versions/lPHqAKGY/cc_powered-1.20.1-1.0.0-alpha.2.jar"
+hash-format = "sha512"
+hash = "19fa25f845daecce806207c8f101be2b9a434239fd07bf6986f823f54e1f8dc663669b88800d9f6aeea9fb7d8e554c2973f7dad2d74d13f345f30a2de7953b60"
+
+[update]
+[update.modrinth]
+mod-id = "zlSMNSzH"
+version = "lPHqAKGY"

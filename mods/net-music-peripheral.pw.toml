@@ -1,0 +1,13 @@
+name = "Net Music: Peripheral"
+filename = "netmusicperipheral-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XdqouKRU/versions/7T4yveDq/netmusicperipheral-0.1.jar"
+hash-format = "sha512"
+hash = "c6a55035197dc0172d0460b55ea6355cac520522310cd9d14c643d7aa2447165906eb9a767ab2e9a5595168e9126b907a2b74263bf7efe75c67d5e92f3ec3ec5"
+
+[update]
+[update.modrinth]
+mod-id = "XdqouKRU"
+version = "7T4yveDq"

@@ -1,0 +1,13 @@
+name = "Simple Shops"
+filename = "simpleshops-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/71BlRhHp/versions/B6FEs7dP/simpleshops-1.2.2.jar"
+hash-format = "sha512"
+hash = "7fa81c3dafd4d250fab70740b24e96ccf8a2e7288c08b14ef33f790b063c96998ad62c389da7d7672ee6c8d056591c39959c582651dec15f610edf935a012ead"
+
+[update]
+[update.modrinth]
+mod-id = "71BlRhHp"
+version = "B6FEs7dP"

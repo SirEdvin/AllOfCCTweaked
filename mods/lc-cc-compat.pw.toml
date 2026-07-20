@@ -1,0 +1,13 @@
+name = "Lightman's Currency x CC:Tweaked Compat"
+filename = "lccccompat-0.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p40y3hwS/versions/ZuB0bB6M/lccccompat-0.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "1f7e08d8fc612472be8b1f083a97ffd65249fc5ec9d020a094213abefffd6553c537aa553a5f4055c6e62261c3755d4ccea6937756cff9b503ee0947ec3db9d0"
+
+[update]
+[update.modrinth]
+mod-id = "p40y3hwS"
+version = "ZuB0bB6M"
