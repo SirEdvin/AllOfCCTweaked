@@ -5,6 +5,118 @@ file = "AGENTS.md"
 hash = "4b083759f04b7b99de3b337aac2d3943662605018d4e2e4150261d2d8279d055"
 
 [[files]]
+file = "config/Advancedperipherals/general.toml"
+hash = "6b3115248f87c339c5ae934d586f48df30f039b0254b4c5f187f7fb17e3901dc"
+
+[[files]]
+file = "config/Advancedperipherals/metaphysics.toml"
+hash = "83f084ba957cb0aba4a8e0cdd9eb6b17eef5fb632fc30e036c295402098ec6d0"
+
+[[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "96225cff7ffb8eb451a86a9280a1863be43e191ed271f44cb95e03a01feb27d0"
+
+[[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "64417fb1e25e707e7fca99d923016c900b91ef958a092b42e7145933893e7d15"
+
+[[files]]
+file = "config/cc_androids.json"
+hash = "00ea6f689ff78538331dfb79d5a8bcac1527aa7e392251e17ff277b666451903"
+
+[[files]]
+file = "config/ccwake-common.toml"
+hash = "579652050040647f2ed249948f9e72879004e128a7b8ade0a73137ffdee3fbcf"
+
+[[files]]
+file = "config/classicperipherals.toml"
+hash = "1ee98be1ffe155ae63d5acaf8eff0cea6a615e0f64f75f819f19ccd978aa2a25"
+
+[[files]]
+file = "config/cloudsolutions.toml"
+hash = "dafab1cb0932bf2aedaf919e90a5560b8666c80e1d751e4b674eec3fe082a3cb"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "09eee1f5405110edb02064e2163b32b0ecff39756f8e1fb88dc37a08e452d574"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "5b9ee8bee23d0f12b926567309802eed6f1f46a195726b2b034d692deb833b65"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "3903cd1fcf402a8c155f21bb581eb78d26e067537cb8af0b24bb8b8be63b3b30"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
+
+[[files]]
+file = "config/digitalitems.toml"
+hash = "42d8d620e27761496734b3e918dbcc7a1abc2ea65b022febcfee65a01eb8d06f"
+
+[[files]]
+file = "config/emi.css"
+hash = "b2fefce8b997851759990d1ec0c71d4be631e435857eb7b19516e4806986ac34"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "eb340500d8f3bcc40b66f0e6fae6ad1833a5863d3f19fde081ec039105e3ec6c"
+
+[[files]]
+file = "config/fml.toml"
+hash = "1ed9280977d03a3e6d0661ae5c7217b49a4c40e255c88c6811b12b1b28f69ea5"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "d72756b03ecabb49efba6ae58f449512e1dfbe67650364bd2ede830120471934"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "da0f488736e1c33c9ff7f92b03e952f2ce179ff4f8ade3d3b67a5fcfce450735"
+
+[[files]]
+file = "config/more-peripherals-common.toml"
+hash = "d46f8f29967528963a2a6043b335faf67718a45753439b1b2db2292fbb66fc0e"
+
+[[files]]
+file = "config/peripheralworks.toml"
+hash = "0b2e79b38243d520275f5f5c05398425f7902abfc050746bf8ade8a423bc0bbf"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "7508f3f5ceed80c7c606d01ee2dc93e2c72a8afa199ccb691fc5225c894d5bbd"
+
+[[files]]
+file = "config/toms_peripherals-common.toml"
+hash = "3969f4b811d298575c8cc46782b48cc5afe25e27dfd389b82d5fdcc71a755408"
+
+[[files]]
+file = "config/turtlematic.toml"
+hash = "a4fa866b70dbc8915c1d66bb1cc7969e46b984bc49bdb4c29ccdfe3149095f05"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "c7af4f96de5fa87d892dfd38ac42ce3fb55d738bdf38506550277838ca44b643"
 metafile = true

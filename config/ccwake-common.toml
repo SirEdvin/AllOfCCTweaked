@@ -1,0 +1,6 @@
+
+#Wake Nodes common configuration
+[logging]
+	#Enable server-side log messages for wake node events.
+	enable_node_logs = true
+

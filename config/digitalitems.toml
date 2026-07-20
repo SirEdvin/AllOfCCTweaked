@@ -1,0 +1,17 @@
+
+#Item decay options
+[decay]
+	#Is item decay enabled
+	enableDecay = true
+	#After how many ticks do digital items decay? Default: 120000 (5 in game days)
+	#Range: 0 ~ 9223372036854775807
+	decay_ticks = 120000
+	#Range: > 64
+	itemStackLimit = 16384
+	#Range: 1024 ~ 9223372036854775807
+	fluidStackLimit = 4611686018427387903
+	#Range: 1024 ~ 9223372036854775807
+	energyStackLimit = 4611686018427387903
+	#Range: > 1
+	inventoryTransferLimit = 1024
+
