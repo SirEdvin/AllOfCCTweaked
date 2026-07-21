@@ -1,0 +1,13 @@
+name = "Create Peripheral Fix"
+filename = "createperipheralfix-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dBr4J123/versions/NNu9QTA5/createperipheralfix-0.1.jar"
+hash-format = "sha512"
+hash = "20ef39ab49476e58bced0a9577678c41d21f29518e8c980b2d4c3b813a00f6b3882c69060fb7fe0db5de871b0debfe9db9395c6d9dfc43ff34430d815adeb3df"
+
+[update]
+[update.modrinth]
+mod-id = "dBr4J123"
+version = "NNu9QTA5"

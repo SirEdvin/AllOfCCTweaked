@@ -191,6 +191,11 @@ hash = "81b4a182487cdeb22bfd608a69bc7de5af7784307ee2d41f3439f9963c565921"
 metafile = true
 
 [[files]]
+file = "mods/create-peripheral-fix.pw.toml"
+hash = "35d1ad1b74f17c71e779e0000088d6c75a37ca2221b751a96b2198f97621851c"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
